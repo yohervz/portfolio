@@ -563,14 +563,14 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Clients
+# technologies
 --------------------------------------------------------------*/
-.clients {
+.technologies {
   padding: 12px 0;
   text-align: center;
 }
 
-.clients img {
+.technologies img {
   max-width: 45%;
   transition: all 0.4s ease-in-out;
   display: inline-block;
@@ -578,13 +578,13 @@ section {
   filter: grayscale(100);
 }
 
-.clients img:hover {
+.technologies img:hover {
   filter: none;
   transform: scale(1.1);
 }
 
 @media (max-width: 768px) {
-  .clients img {
+  .technologies img {
     max-width: 40%;
   }
 }
