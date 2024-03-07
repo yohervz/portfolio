@@ -1812,3 +1812,12 @@ section {
     padding-top: 4px;
   }
 }
+
+.image-company {
+  padding: 30px;
+}
+
+
+.image-company img {
+  width: 150px;
+}
